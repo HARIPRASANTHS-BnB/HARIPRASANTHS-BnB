@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HARI PRASANTH S</h1>
-<h3 align="center">I Research about Sleep and some more stuffs and also develop problem Solving ML algorithms , Some Effective AI's and also I Develop Flutter Apps And Web Apps....</h3>
+<h3 align="center">Data Scientist | Researcher | Entreprenuar | Research on Sleep,Teen Sex addiction and child safety ,food, Nature . Founder of Blaxnblu And Bring To Us An Initiative.  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariprasanths-bnb&label=Profile%20views&color=0e75b6&style=flat" alt="hariprasanths-bnb" /> </p>
 
